@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+uploads/
+fall_detection_model/
+saved_model/
